@@ -1,4 +1,4 @@
-c21ab2445fc62802e1373b177eafe015 *DESCRIPTION
+098a33b1418405aab3796204058bad87 *DESCRIPTION
 9fdfeb11f7ddba6f3aab9aaa6b1ac5dd *NAMESPACE
 f701d5381aebaaec5e3b35a507e63c71 *data/CGM.Cat.rda
 86231782f700e3ac1c331af1a2e14fbb *data/DD.chem.data.rda
@@ -9,7 +9,7 @@ dfa44f72c91c29769b775e334eb3ae5f *data/Yeast.Biogrid.data.rda
 55f35a96128e8c58836d43c13eff2717 *data/Yeast.STRING.FunCat.rda
 4fbde98ef52dde4ba0121a0d4e323b3d *data/Yeast.STRING.data.rda
 d1e4fd8bcd4fcabcdc6cef5ebf589cc3 *data/datalist
-20347e9cf110a8a14dfb8ed515391355 *inst/doc/bionetdata.pdf
+d2ce6b6846cb6983cd2913319c9827b7 *inst/doc/bionetdata.pdf
 497a87a92681afe17d106c1620472e3e *man/CGM.Cat.Rd
 aff8e4bece30fa9c7068736e6ed4ac45 *man/DD.chem.data.Rd
 ecb8bd5bfe6f7a90de784710896bd7fd *man/DrugBank.Cat.Rd
@@ -18,4 +18,4 @@ ecb8bd5bfe6f7a90de784710896bd7fd *man/DrugBank.Cat.Rd
 81f4f446a86dfbc8539f432847cc8573 *man/Yeast.Biogrid.data.Rd
 95bdd228780c4cab0b4add54df660a81 *man/Yeast.STRING.FunCat.Rd
 9f3add07d8ad3e54a1f2dfa4ef02f63b *man/Yeast.STRING.data.Rd
-993970d947e69024b6f012b7d81709d5 *man/bionetdata-package.Rd
+606f21636b07200eda5295a054a6dc47 *man/bionetdata-package.Rd
