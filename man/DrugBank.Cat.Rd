@@ -15,9 +15,8 @@ A 1253 x 45 named binary matrix where rows refer to DrugBank drugs, columns to 4
 The drug categories were extracted by parsing the Drug_Category field of the DrugBank 3.0 DrugCards of the 1253 FDA approved drugs contained in the \code{\link{DD.chem.data}} matrix. The DrugBank Drug categories are produced by manual curators. On the contrary of other drugs functional annotation schemes these drugs categories are not restricted to specific deseases. Indeed it is possible to find in this functional annotation scheme categories associated to drugs involved in the treatment of specific deseases (i.e. 'AntiParkinsons_Agents') or to the treatment of symptoms (i.e. 'Anticonvulsants') associated to many deseases. This functional labelling scheme contains also categories based on the Mode of Action (MOA) of the drugs as in the case of the 'Adrenergic_Uptake_Inhibitors' category.   
 }
 \source{
-The drug categories were extracted by parsing the Drug_Category field of the DrugCards contained in the file drugbank.txt available at: 
-
-\url{http://www.drugbank.ca/system/downloads/current/drugbank.txt.zip}
+The drug categories can be obtained from:
+\url{https://go.drugbank.com/releases/latest} 
 }
 \references{
 Knox, C., Law, V., Jewison, T., Liu, P., Ly, S., Frolkis, A., Pon, A., Banco, K., Mak, C.,

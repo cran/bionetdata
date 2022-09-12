@@ -12,8 +12,8 @@ Data Package that includes several examples of chemical and biological data netw
 \tabular{ll}{
 Package: \tab bionetdata\cr
 Type: \tab Package\cr
-Version: \tab 1.0.1\cr
-Date: \tab 2014-09-07\cr
+Version: \tab 1.1\cr
+Date: \tab 2022-09-10\cr
 License: \tab GPL (>= 2) \cr
 LazyLoad: \tab yes\cr
 }
@@ -26,10 +26,10 @@ DI, Dipartimento di Scienze dell'Informazione
 
 Universita' degli Studi di Milano
 
-\email{\{valentini,re\}@di.unimi.it}
+\email{\{valentini\}@di.unimi.it}
 
 Maintainer: 
-\emph{Matteo Re} 
+\emph{Giorgio Valentini} 
 }
 
 

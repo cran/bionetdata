@@ -14,7 +14,7 @@ Binary protein-protein interactions from the STRING data base (von Mering et al.
 }
 
 \source{
-\url{http://string-db.org}
+\url{https://string-db.org}
 }
 \references{
 von Mering, C., Krause, R., Snel, B., Cornell, M., Oliver, S., Fields, S., and Bork, P. (2002). Comparative assessment of

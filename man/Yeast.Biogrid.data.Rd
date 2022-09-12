@@ -18,7 +18,7 @@ Names correspond to systematic names of yeast genes.
 }
 
 \source{
-BioGRID data base: \url{http://thebiogrid.org}
+BioGRID data base: \url{https://thebiogrid.org}
 
 }
 \references{

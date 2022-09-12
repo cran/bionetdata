@@ -30,7 +30,7 @@ A 2033 x 10 named matrix where rows refer to human gene symbols, columns to 10 C
 \source{
 Original annotations (c4.cm.v3.0.symbols.gmt) are available at: 
 
-\url{http://www.broadinstitute.org/gsea/msigdb} 
+\url{http://software.broadinstitute.org/gsea/msigdb} 
 }
 \references{
 Segal E., Friedman N., Koller D. and Regev A., A module map showing conditional activity of

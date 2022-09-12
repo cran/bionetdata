@@ -15,9 +15,8 @@ Chemical structure similarities between 1253 FDA approved drugs obtained from Dr
 This matrix contains the Tanimoto chemical structure similarity scores between 1253 DrugBank drugs. Canonical Simplified molecular-input line-entry specifications (SMILES) of the drugs were extracted from the DrugBank Drugcards. The SMILES were then converted into molecular extended fingerprints (1024 bits) using the rcdk package. The set of fingerprints was finally converted into a Tanimoto similarity  matrix using the fp.sim.matrix rcdk function. All the real values contained in this matrix represent the chemical structure similarity between each possible pair of drugs and are comprised between 0 (completely different chimical structures) and 1 (identical chemical structures).
 }
 \source{
-The SMILES representations of the drugs were extracted by the Smiles_String_canonical fields of the DrugCards contained in the file drugbank.txt available at:
-
-\url{http://www.drugbank.ca/system/downloads/current/drugbank.txt.zip} 
+The SMILES representations of the drugs can be obtained from:
+\url{https://go.drugbank.com/releases/latest} 
 }
 \references{
 Wishart, D., Knox, C., Guo, A., Shrivastava, S., Hassanali, M., Stothard, P., Chang, Z.,
